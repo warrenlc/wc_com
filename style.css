@@ -1,4 +1,11 @@
+*,div,pre,textarea,body,input,td,tr,p {
+    background-color: #202020 !important;
+    background-image: none !important;
+    color: #bbbbbb !important;
+}
 #top h1{
+    background-color: #202020 !important;
+    color: #b8ddea !important;
     font-size: 60px;
     color: black;
     font-family: andale mono, monospace;
@@ -6,25 +13,36 @@
     text-align: center;
 }
 
+
 #footer p{
-    font-size: 12px;
+    color: white;
+    background-color: black;
+    font-size: 10px;
     width: 100%;
     z-index: 100;
     bottom: 0;
     left: 0;
-    height: 20px;
-    margin-bottom: 5;
+    margin-bottom: 0;
     position: fixed;
 }
 
 #content h1{
+    background-color: #202020 !important;
+    color: #b8ddea !important;
     font-family: andale mono, monospace;
     margin-left: 100px;
     font-size: 48px;
     padding: 0px;
 }
 
+#content a {
+    color: #b8ddea !important;
+}
+
+
 p{
+    background-color: #202020 !important;
+    color: #bbbbbb !important;
     font-family: andale mono, monospace;
     margin-left: 240px;
     margin-right: 240px;
