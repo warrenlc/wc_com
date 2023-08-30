@@ -4,4 +4,4 @@ I intend to only use HTML and CSS and focus on learning
 how to make things look good.
 It just started, so go easy on it. 
 
-https://wwww.warrencrutcher.com
+https://www.warrencrutcher.com
